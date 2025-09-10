@@ -8,8 +8,18 @@ title: Distant Reading Project
 
 # Distant Reading Assignment 
 
-*This is a page where you can paste your distant reading assignment. I strongly suggest writing it in Word or Google Docs first, because Github will not alert you of typos*
+I used Voyant to search this website! [Shark Website!](https://www.fisheries.noaa.gov/feature-story/12-shark-facts-may-surprise-you)
 
-This file ends in ".md," which means it is a Markdown document, rather than HTML. I find Markdown easier to use than HTML, but you can easily change this to an HTML document if you prefer: just replace the .md with .html and commit! 
+I learned...
 
-Here is a fun link to a [Markdown Cheatsheet](https://www.markdownguide.org/cheat-sheet/). Once you grasp the basics here, go add "Markdown" to your list of skills on your resume!
+Here's a photo...
+
+![Shark words from Voyant - research, teeth, nurse, marine, shark, act, species, skin, sharks, facts, image, endangered](shark.png)
+
+
+---
+
+I also tried Copilot and here is a bit of our conversation:
+
+Paste photos here
+

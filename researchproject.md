@@ -17,7 +17,7 @@ many people lack knowledge to really understand what is happening. Fizaine and L
 Borgne argue that greater climate knowledge significantly reduces individual carbon
 footprints (Fizaine and Le Borgne 1). An easy-to-use educational tool that people can use
 to help their understanding of climate change is the first step in helping people reduce
-their carbon footprint.\
+their carbon footprint.
 
 This project will use Chatling to create an educational chatbot that will inform users
 about climate change and how some of their daily choices contribute to their carbon
@@ -25,7 +25,7 @@ footprint. Users will learn through a conversation-based learning tool which can
 educational experience more accessible and personalized. The perspective that climate
 change is not only a physical problem, but a cultural problem is a key argument for having
 the chatbot not only understand the science of climate change but connecting it to people
-and their lives (Sörlin and Lane 6).\
+and their lives (Sörlin and Lane 6).
 
 One key finding was that you can reduce your household emissions in remarkably
 simple lifestyle adjustments. You can make a difference with several minor changes
@@ -35,13 +35,13 @@ tracking apps that can help show users their carbon footprint and suggest areas 
 improvement (Lasarov et al). Similarly, there are also carbon calculators that can motivate
 users to reduce their carbon footprint based on financial reasons (Enlund et al). This can
 make users aware of their spending habits that lead to bigger carbon footprints and
-suggest areas where they can make beneficial swaps.\
+suggest areas where they can make beneficial swaps.
 
 By creating a tool that allows users to gain an understanding of climate change and
 their carbon footprint, it is a starting point for better climate literacy. When we have better
 climate literacy then we start making real changes in the very real problem, climate
 change. This learning tool will help educate and empower individuals to create a positive
-change for our future.\
+change for our future.
 
 
 # Works Cited

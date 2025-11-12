@@ -46,13 +46,7 @@ change for our future.
 
 # Works Cited
 
-(add HTML code to do the hanging indentation, as seen below)
-
-
-<p style="margin-left: 2em; text-indent: -2em; line-height: 1.5;">
-  Lastname, Firstname. <em>Book Title</em>. Press, 2025.
-</p>
-
-<p style="margin-left: 2em; text-indent: -2em; line-height: 1.5;">
-  Doe, Jane. "Journal Article.” <em>Journal Name</em>, vol. 15, no. 2, 2025, pp. 45–67.
-</p>
+<dl>
+<dd>Lastname, Firstname. <em>Book Title</em>. Press, 2025.</dd>
+<dd>Doe, Jane. "Journal Article." <em>Journal Name</em>, vol. 15, no. 2, 2025, pp. 45–67.</dd>
+</dl>
